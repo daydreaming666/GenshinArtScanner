@@ -2,6 +2,9 @@
 
 [简体中文](./README.md) | [English](./README_en.md)
 
+## Deprecated
+> This repository is deprecated and permanently moved to [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma).
+
 Scan the Artifact in the backpack and export them to json format. Later, they can be imported to Artifact analysis tools( [mona-uranai](https://www.mona-uranai.com), [MingyuLab](https://genshin.mingyulab.com), [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer )) for calculation and planning, etc. 
 
 - genshin 2.0 Artifact supported!
