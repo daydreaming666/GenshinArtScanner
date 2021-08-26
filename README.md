@@ -2,6 +2,9 @@
 
 [简体中文](./README.md) | [English](./README_en.md)
 
+## Deprecated
+> 这个仓库已过时废弃，该项目已永久移至 [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma).
+
 扫描背包中的圣遗物，并导出至 json 格式。之后可导入圣遗物分析工具( [莫娜占卜铺](https://www.mona-uranai.com) 、 [MingyuLab](https://genshin.mingyulab.com) 、 [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer ) 进行计算与规划等。
 
 - 已支持 原神2.0 的圣遗物!
